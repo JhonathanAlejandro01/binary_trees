@@ -6,7 +6,7 @@
  * Return: 1 if node is a root, otherwise 0.
  */
 
-_Bool check_root(const binary_tree_t *node)
+int check_root(const binary_tree_t *node)
 {
 	if (node == NULL)
 		return (0);
@@ -24,6 +24,8 @@ _Bool check_root(const binary_tree_t *node)
 
 int binary_tree_is_root(const binary_tree_t *node)
 {
-
-	return (check_root(node));
+	int root;
+	if (node)
+		root = check_root(node);
+	return (root);
 }
