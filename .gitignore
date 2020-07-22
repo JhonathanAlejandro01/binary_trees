@@ -10,3 +10,17 @@
 7-in
 8-main.c
 8-post
+*main.c
+1-left
+3-del
+4-leaf
+9-height
+10-depth
+11-size
+12-leaves
+13-nodes
+14-balance
+15-full
+16-perfect
+17-sibling
+18-uncle
