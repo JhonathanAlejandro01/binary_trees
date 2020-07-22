@@ -1,9 +1,12 @@
 #ifndef _BINARY_TREE_H_
 #define _BINARY_TREE_H_
 /* For not double inclusion */
+
 /* The libraries standard */
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
 /* Basic Binary Tree */
 /**
  * struct binary_tree_s - Binary tree node
@@ -15,20 +18,16 @@
  */
 struct binary_tree_s
 {
-    int n;
-    struct binary_tree_s *parent;
-    struct binary_tree_s *left;
-    struct binary_tree_s *right;
+	int n;
+	struct binary_tree_s *parent;
+	struct binary_tree_s *left;
+	struct binary_tree_s *right;
 };
 
 typedef struct binary_tree_s binary_tree_t;
-/* Binary Search Tree */
-typedef struct binary_tree_s bst_t;
-/* AVL Tree */
-typedef struct binary_tree_s avl_t;
-/* Max Binary Heap */
-typedef struct binary_tree_s heap_t;
+
 /* The Prototypes */
+void binary_tree_print(const binary_tree_t *tree);
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value);
 binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value);
