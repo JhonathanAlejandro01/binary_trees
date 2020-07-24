@@ -11,4 +11,4 @@ binary_trees
 ## Authors :black_nib:
 
 * **Jhonatan Angarita** Twitter [@Alejandro_Angar](https://twitter.com/Alejandro_Angar)
-* **Adrian De La Asuncion** Twittter [@AdrianDeLaAsun1] (https://twitter.com/AdrianDeLaAsun1)
+* **Adrian De La Asuncion** Twittter [@AdrianDeLaAsun1](https://twitter.com/AdrianDeLaAsun1)
