@@ -11,7 +11,8 @@ binary_trees
 * 2-binary_tree_insert_right.c
 * 3-binary_tree_delete.c
 * 4-binary_tree_is_leaf.c
-* 
+* 5-binary_tree_is_root.c
+* 6-binary_tree_preorder.c
 
 ## Authors :black_nib:
 
