@@ -13,6 +13,8 @@ binary_trees
 * 4-binary_tree_is_leaf.c
 * 5-binary_tree_is_root.c
 * 6-binary_tree_preorder.c
+* 7-binary_tree_inorder.c
+* 8-binary_tree_postorder.c
 
 ## Authors :black_nib:
 
