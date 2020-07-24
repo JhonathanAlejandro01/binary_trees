@@ -10,4 +10,4 @@ binary_trees
 
 ## Authors :black_nib:
 
-* **Jhonatan Angarita** [Github](https://github.com/JhonathanAlejandro01)
+* **Jhonatan Angarita** [Github](https://github.com/JhonathanAlejandro01) [Twitter](https://twitter.com/Alejandro_Angar)
