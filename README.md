@@ -17,6 +17,9 @@ binary_trees
 * 8-binary_tree_postorder.c
 * 9-binary_tree_height.c
 * 10-binary_tree_depth.c
+* 11-binary_tree_size.c
+* 12-binary_tree_leaves.c
+* 
 
 ## Authors :black_nib:
 
