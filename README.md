@@ -23,7 +23,8 @@ binary_trees
 * 14-binary_tree_balance.c
 * 15-binary_tree_is_full.c
 * 16-binary_tree_is_perfect.c
-* 
+* 17-binary_tree_sibling.c
+* 18-binary_tree_uncle.c
 
 ## Authors :black_nib:
 
